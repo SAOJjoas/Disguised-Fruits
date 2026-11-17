@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "Disguised Fruits"
+TargetType = "BeefGUIApplication"
+StartupObject = "DisguisedFruits.Program"

@@ -1,0 +1,6 @@
+build/
+.beef/
+*.exe
+*.pdb
+*.obj
+*.lib
