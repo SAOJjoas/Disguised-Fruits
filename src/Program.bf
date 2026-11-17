@@ -1,0 +1,5 @@
+namespace DisguisedFruits;
+
+class Program
+{
+}
